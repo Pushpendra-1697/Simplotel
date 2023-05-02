@@ -6,7 +6,7 @@ Plain HTML and cascading-style-sheets (CSS)
 
 # Netlify Deploy Link:
 ```bash
-   https://scintillating-paletas-5d79e0.netlify.app/
+   https://marvelous-sunburst-781d52.netlify.app/
 ```
 
 # Some Project Screenshots:
