@@ -6,10 +6,10 @@ Plain HTML and cascading-style-sheets (CSS)
 
 # Netlify Deploy Link:
 ```bash
-   scintillating-paletas-5d79e0.netlify.app/
+   https://scintillating-paletas-5d79e0.netlify.app/
 ```
 
 # Some Project Screenshots:
-# A) For Computer Screen:
-# B) For Computer Screen:
+# A) For Desktop Screen:
+# B) For Tablet Screen:
 # C) For Mobile Screen:
