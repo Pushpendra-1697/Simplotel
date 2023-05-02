@@ -41,6 +41,7 @@ nav ul.menu {
     align-items: center;
     margin: auto;
     gap: 60px;
+    background-color: #fff;
 }
 
 nav ul.menu li {
