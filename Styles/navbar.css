@@ -15,17 +15,16 @@ nav {
     top: 0.1px;
     z-index: 100;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    letter-spacing: 4px;
 }
 
 nav .logo {
-    font-size: 24px;
-    font-weight: bold;
     display: flex;
     gap: 10px;
-    font-size: 20px;
+    font-size: 25px;
 }
 
-nav input[type="checkbox"] {
+nav input {
     display: none;
 }
 
@@ -40,8 +39,10 @@ nav ul.menu {
     display: flex;
     align-items: center;
     margin: auto;
-    gap: 60px;
+    gap: 48px;
     background-color: #fff;
+    font-size: 20px;
+    font-weight: 500;
 }
 
 nav ul.menu li {
@@ -49,7 +50,7 @@ nav ul.menu li {
 }
 
 nav ul.menu li a {
-    color: #333;
+    color: black;
     text-decoration: none;
 }
 
@@ -70,11 +71,15 @@ nav ul.menu li a {
         gap: 0;
     }
 
+    nav .logo {
+        font-size: 25px;
+    }
+
     nav ul.menu li {
         margin: 10px 0;
     }
 
-    nav input[type="checkbox"]:checked~ul.menu {
+    nav input:checked~ul.menu {
         display: flex;
     }
 }
