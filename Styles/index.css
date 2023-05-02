@@ -113,12 +113,8 @@ h2 {
     margin-bottom: 5%;
 }
 
-
+/* For Medium Screen (For Tablet)*/
 @media all and (min-width: 481px) and (max-width:768px) {
-    #image1 {
-        height: 700px;
-    }
-
     #lorem {
         padding: 20px;
         width: 50%;
@@ -147,12 +143,8 @@ h2 {
     }
 }
 
-
+/* For Small Screen (For Mobile Screen)*/
 @media all and (min-width: 320px) and (max-width:480px) {
-    #image1 {
-        height: 550px;
-    }
-
     #lorem {
         padding: 20px;
         width: 60%;
