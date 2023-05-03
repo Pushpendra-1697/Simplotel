@@ -13,7 +13,7 @@ Plain HTML and cascading-style-sheets (CSS)
 ```bash
    For Mobile Screen: @media all and (min-width: 320px) and (max-width:480px)
    For Tablet Screen: @media all and (min-width: 481px) and (max-width:768px)
-   For Desktop Screen: Screen Size > 768px
+   For Desktop Screen: Screen Size > 768px 
 ```
 # A) For Desktop Screen:
 ![Screenshot (234)](https://user-images.githubusercontent.com/104748364/235758621-ddf2730c-b729-4b02-bdb4-27bc6fdd09ba.png)
